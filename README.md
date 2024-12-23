@@ -1,5 +1,5 @@
 ## Hi, my name is José de Jesús 👋
-**Systems Engineering Student, fullstack web & Android developer**
+**Systems Engineering Student, full-stack web & Android developer**
 <!--
 **ElYizuz123/ElYizuz123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
